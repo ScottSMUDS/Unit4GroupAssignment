@@ -1,2 +1,4 @@
 # Unit4GroupAssignment
-Rolling Housing Sales for NYC
+*Project Objective
+**Rolling Housing Sales for NYC Borough of Queens
+
